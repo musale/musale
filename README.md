@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## \$ sudo cat /usr/bin/me
+### \$ sudo cat /usr/bin/me
 
 I’m Musale Martin – a learner, problem-solver, and software engineer from Kenya, based in Nairobi.
 
