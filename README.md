@@ -1,16 +1,19 @@
-# Hi there 👋
+```yaml
+Musale:
+  Career:
+    Title: Software Engineer
+    Languages:
+      - JavaScript
+      - Python
+      - Golang
 
-### \$ sudo cat /usr/bin/me
+  Interests:
+    - Open Source
+    - Systems Programming
+    - Cloud Engineering
+    - DevOps Tooling
+    - Automation
+```
 
-I’m Musale Martin – a learner, problem-solver, and software engineer from Kenya, based in Nairobi.
-
-I’m currently building and breaking software at Microsoft in the M365 team.
-
-<div align = 'center'>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=musale&langs_count=8" alt = "Top Langs">
-<img src = "https://metrics.lecoq.io/musale?template=classic&config.timezone=Africa%2FNairobi" alt = "Metrics">
-
-</div>
-
-[musale.github.io](https://musale.github.io)
+![Musale's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musale&hide=dart,html,css&theme=nord)
+![Musale's github stats](https://github-readme-stats.vercel.app/api?username=musale&show_icons=true&count_private=true&line_height=40&theme=nord)
