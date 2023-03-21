@@ -3,12 +3,17 @@ Musale:
   Career:
     Title: Software Engineer
     Languages:
-      - JavaScript
+      - TypeScript
       - Python
       - Golang
+      - Rust
 
   Interests:
     - Open Source
+    - Web Development
+      - Web Frameworks
+      - Web Components
+      - Accessibility
     - Systems Programming
     - Cloud Engineering
     - DevOps Tooling
