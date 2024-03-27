@@ -18,4 +18,6 @@ Musale:
     - Cloud Engineering
     - DevOps Tooling
     - Automation
+    - Kubernetes
+    - Containerization
 ```
