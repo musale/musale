@@ -6,10 +6,11 @@ Musale:
       - TypeScript
       - Python
       - Golang
-      - Rust
+      - .Net
 
   Interests:
     - Open Source
+    - Declarative Agents and MCP
     - Web Development
       - Web Frameworks
       - Web Components
@@ -18,6 +19,5 @@ Musale:
     - Cloud Engineering
     - DevOps Tooling
     - Automation
-    - Kubernetes
-    - Containerization
+    - Kubernetes & Containerization
 ```
